@@ -1,0 +1,26 @@
+div.well{
+  width:60%;
+  margin:0 auto;
+}
+
+body{
+  background-color:#002649;
+}
+
+input.form-control.input-lg{
+  font-weight:600;
+}
+
+h1.text-center{
+  color:#ffffff;
+}
+
+div.row{
+  padding:10px;
+}
+
+div.input-group-addon{
+  color:#ffffff;
+  background-color:#002649;
+}
+
